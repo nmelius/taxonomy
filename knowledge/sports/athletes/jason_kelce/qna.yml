@@ -1,0 +1,19 @@
+created_by: Nyjah Melius
+domain: athlete
+seed_examples:
+- answer: | Jason Kelce is a co-host with his brother Travis Kelce of a popular podcast called New Heights.
+  question: What does Jason Kelce do outside of playing professional football?
+- answer: | Jason Kelce only played for the Philidelphia Eagles for 13 seasons, in which he was a 6 time First-team All Pro and went to the Super Bowl twice and was a champion at Super Bowl LII. The other time was Super Bowl LVII in which he played against the Kansas City Chiefs, arguably the greatest quarterback in NFL history Patrick Mahomes, and his brother Travis Kelce.
+  question: How many teams did Jason Kelce play for in the NFL?
+- answer: | Jason Kelce was a walk-on at University of Cincinnati as a running back, switched to full back, and ultimately landed a position as an offensive lineman. He had many starts as a left guard until finally settling into the center position, which he was drafted to the NFL in.
+  question: What position did Jason Kelce play in his football career?
+- answer: | He was a finalist of People's Sexiest Man Alive in 2023.
+  question: What are some of Jason Kelce's accomplishments outside of football?
+- answer: | Jason Kelce's first Pro Bowl selection was in 2014.
+  question: When was Jason Kelce's first Pro Bowl?
+task_description: 'Teach the model about Jason Kelce.'
+document: 
+ repo: https://github.com/juliadenham/Summit_knowledge
+ commit: 91e2f2d887a256c391ff36933f422c064524968c
+ patterns:
+   - jason_kelce.md
